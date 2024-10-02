@@ -1,5 +1,7 @@
 # <a name="topo"></a>Preparação para o exame Azure AZ-900
 
+Fiz um Fork do projeto do Sr. HugoAPortela
+
 ## Considerações
 
 1. Todo conteúdo foi retirado dos módulos e paths do site [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) e simulados realizados para fins de estudo.
